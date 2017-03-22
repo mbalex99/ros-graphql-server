@@ -1,5 +1,5 @@
 # Requirements:
-* Ensure you have Node version 6.4 or higher.
+* Ensure you have Node version 4 or higher.
 * Ensure you are running on Linux or Mac OSX. (windows support is close on the horizon)
 
 # Getting Started
