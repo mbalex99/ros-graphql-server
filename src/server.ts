@@ -3,6 +3,8 @@ import { createServer } from 'http'
 import * as cors from 'cors';
 import * as bodyParser from 'body-parser';
 
+import { graphqlExpress} from 'graphql-server-express';
+
 var app = express()
 var server = createServer(app);
 app.use(cors())
