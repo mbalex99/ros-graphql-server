@@ -2,3 +2,5 @@ node_modules
 dist
 npm-debug.log
 realm-professional.tgz
+realm-object-server
+src/config.ts

@@ -1,3 +1,9 @@
+# What is this? 
+
+A boilerplate that you can clone to use REST or GraphQL on top of Realm.
+
+1. It support subscriptions via websockets
+
 # Requirements:
 * Ensure you have Node version 4 or higher.
 * Ensure you are running on Linux or Mac OSX. (windows support is close on the horizon)
